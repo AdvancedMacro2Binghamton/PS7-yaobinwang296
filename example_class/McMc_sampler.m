@@ -1,4 +1,4 @@
-%%%% Extremely simple sample application of a Metropolis hastings algorithm
+90%%%% Extremely simple sample application of a Metropolis hastings algorithm
 %%%% (this script) and a particle filter to approximate the likelihood
 %%%% function empirically ('model_llh.m').
 %%%% Instructions: Specify a "true model" to generate dummy data with the
